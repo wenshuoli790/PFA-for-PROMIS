@@ -1,0 +1,28 @@
+---
+title: "Tucker's congruence coefficients"
+format: pdf
+---
+
+```{r}
+# Tucker's congruence coefficient
+library(psych)
+library(readxl)
+
+pfa.short <- read_xlsx("pfa_emodistress_formH.xlsx", sheet="Pattern")
+eifa.short <- read_xlsx("eifa_emodistress_formH.xlsx", sheet="Loadings")
+
+pfa.short.loadings <- pfa.short[,c("ML1","ML2","ML3")]
+eifa.short.loadings <- eifa.short[,c("F1","F2","F3")]
+
+factor.congruence(pfa.short.loadings, eifa.short.loadings)
+
+
+
+pfa.long <- read_xlsx("pfa_emodistress_full.xlsx", sheet="Pattern")
+eifa.long <- read_xlsx("eifa_emodistress_full.xlsx", sheet="Loadings")
+
+pfa.long.loadings <- pfa.long[,c("ML1","ML3","ML2")]
+eifa.long.loadings <- eifa.long[,c("F1","F2","F3")]
+
+factor.congruence(pfa.long.loadings, eifa.long.loadings)
+```

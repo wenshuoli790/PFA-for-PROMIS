@@ -1,0 +1,41 @@
+Label,stem,Item,Factor
+PFC32,,Are you able to climb up 5 flights of stairs?,PF
+PFC33,,Are you able to run ten miles?,PF
+PFC35,,Does your health now limit you in doing eight hours of physical labor?,PF
+PFC36,,Does your health now limit you in walking more than a mile?,PF
+PFC37,,Does your health now limit you in climbing one flight of stairs?,PF
+PFC38,,Are you able to walk at a normal speed?,PF
+PFA32,,Are you able to stand with your knees straight?,PF
+PFA33,,Are you able to exercise hard for half an hour?,PF
+PFA34,,Are you able to wash your back?,PF
+PFA35,,Are you able to open and close a zipper?,PF
+PFA36,,Are you able to put on and take off a coat or jacket?,PF
+PFA37,,Are you able to stand for short periods of time?,PF
+PFA38,,Are you able to dry your back with a towel?,PF
+PFB32,,Are you able to stand unsupported for 10 minutes?,PF
+PFB33,,Are you able to remove something from your back pocket?,PF
+PFB34,,Are you able to change a light bulb overhead?,PF
+PFB36,,Are you able to put on a pullover sweater?,PF
+PFB37,,Are you able to turn faucets on and off?,PF
+FATIMP33,"In the past 7 days,",How often did your fatigue limit you at work (include work at home)?,FTG
+FATIMP34,"In the past 7 days,",To what degree did you have to limit your social activities because of your fatigue?,FTG
+FATIMP35,"In the past 7 days,",To what degree did your fatigue make it difficult to organize your thoughts when doing things at home?,FTG
+FATIMP36,"In the past 7 days,",To what degree did your fatigue make it difficult to start anything new?,FTG
+FATIMP37,"In the past 7 days,",Due to your fatigue were you less effective at work (include work at home)?,FTG
+FATIMP38,"In the past 7 days,",To what degree did your fatigue make it difficult to make decisions?,FTG
+FATEXP34,"In the past 7 days,",How tired did you feel on average?,FTG
+FATEXP35,"In the past 7 days,",How much were you bothered by your fatigue on average?,FTG
+FATEXP36,"In the past 7 days,",How exhausted were you on average?,FTG
+FATEXP38,"In the past 7 days,",How fatigued were you on the day you felt most fatigued?,FTG
+SRPSAT33,"In the past 7 days,",I am satisfied with my ability to do things for fun outside my home,SSRA
+SRPSAT34,"In the past 7 days,",I feel good about my ability to do things for my friends,SSRA
+SRPSAT35,"In the past 7 days,",The quality of my work is as good as I want it to be (include work at home) ,SSRA
+SRPSAT36,"In the past 7 days,",I am happy with how much I do for my friends,SSRA
+SRPSAT37,"In the past 7 days,",I am satisfied with the amount of time I spend visiting friends,SSRA
+SRPSAT38,"In the past 7 days,",I am satisfied with the amount of time I spend performing my daily routines,SSRA
+PAININ32,"In the past 7 days,",How often did pain make you feel discouraged?,PAIN
+PAININ34,"In the past 7 days,",How much did pain interfere with your household chores?,PAIN
+PAININ35,"In the past 7 days,",How much did pain interfere with your ability to make trips from home that kept you gone for more than 2 hours?,PAIN
+PAININ36,"In the past 7 days,",How much did pain interfere with your enjoyment of social activities?,PAIN
+PAININ37,"In the past 7 days,",How often did pain make you feel anxious?,PAIN
+PAININ38,"In the past 7 days,",How often did you avoid social activities because it might make you hurt more?,PAIN

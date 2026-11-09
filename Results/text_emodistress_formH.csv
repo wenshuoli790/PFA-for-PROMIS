@@ -1,0 +1,14 @@
+﻿Label,Stem,Item,Factor
+EDANX01,"In the past 7 days,",I felt fearful,anx
+EDANX02,"In the past 7 days,",I felt frightened,anx
+EDANX03,"In the past 7 days,",It scared me when I felt nervous,anx
+EDANX05,"In the past 7 days,",I felt anxious,anx
+EDANX07,"In the past 7 days,",I felt like I needed help for my anxiety,anx
+EDDEP04,"In the past 7 days,",I felt worthless,dep
+EDDEP05,"In the past 7 days,",I felt that I had nothing to look forward to,dep
+EDDEP06,"In the past 7 days,",I felt helpless,dep
+EDDEP07,"In the past 7 days,",I withdrew from other people,dep
+EDANG01,"In the past 7 days,","when I was frustrated, I let it show",ang
+EDANG03,"In the past 7 days,",I was irritated more than people knew,ang
+EDANG04,"In the past 7 days,",I felt envious of others,ang
+EDANG05,"In the past 7 days,",I disagreed with people,ang

@@ -1,0 +1,79 @@
+﻿Label,Stem,Item,Factor
+EDANX01,"In the past 7 days, ",I felt fearful,anx
+EDANX02,"In the past 7 days, ",I felt frightened,anx
+EDANX03,"In the past 7 days, ",It scared me when I felt nervous,anx
+EDANX05,"In the past 7 days, ",I felt anxious,anx
+EDANX07,"In the past 7 days, ",I felt like I needed help for my anxiety,anx
+EDANX08,"In the past 7 days, ",I was concerned about my mental health,anx
+EDANX12,"In the past 7 days, ",I felt upset,anx
+EDANX13,"In the past 7 days, ",I had a racing or pounding heart,anx
+EDANX16,"In the past 7 days, ",I was anxious if my normal routine was disturbed,anx
+EDANX18,"In the past 7 days, ",I had sudden feelings of panic,anx
+EDANX20,"In the past 7 days, ",I was easily startled,anx
+EDANX21,"In the past 7 days, ",I had trouble paying attention,anx
+EDANX24,"In the past 7 days, ",I avoided public places or activities,anx
+EDANX26,"In the past 7 days, ",I felt fidgety,anx
+EDANX27,"In the past 7 days, ",I felt something awful would happen,anx
+EDANX30,"In the past 7 days, ",I felt worried,anx
+EDANX33,"In the past 7 days, ",I felt terrified,anx
+EDANX37,"In the past 7 days, ",I worried about other peoples reactions to me,anx
+EDANX40,"In the past 7 days, ",I found it hard to focus on anything other than my anxiety,anx
+EDANX41,"In the past 7 days, ",My worries overwhelmed me,anx
+EDANX44,"In the past 7 days, ",I had twitching or trembling muscles,anx
+EDANX46,"In the past 7 days, ",I felt nervous,anx
+EDANX47,"In the past 7 days, ",I felt indecisive,anx
+EDANX48,"In the past 7 days, ",Many situations made me worry,anx
+EDANX49,"In the past 7 days, ",I had difficulty sleeping,anx
+EDANX51,"In the past 7 days, ",I had trouble relaxing,anx
+EDANX53,"In the past 7 days, ",I felt uneasy,anx
+EDANX54,"In the past 7 days, ",I felt tense,anx
+EDANX55,"In the past 7 days, ",I had difficulty calming down,anx
+EDDEP04,"In the past 7 days, ",I felt worthless,dep
+EDDEP05,"In the past 7 days, ",I felt that I had nothing to look forward to,dep
+EDDEP06,"In the past 7 days, ",I felt helpless,dep
+EDDEP07,"In the past 7 days, ",I withdrew from other people,dep
+EDDEP09,"In the past 7 days, ",I felt that nothing could cheer me up,dep
+EDDEP14,"In the past 7 days, ",I felt that I was not as good as other people,dep
+EDDEP17,"In the past 7 days, ",I felt sad,dep
+EDDEP19,"In the past 7 days, ",I felt that I wanted to give up on everything,dep
+EDDEP21,"In the past 7 days, ",I felt that I was to blame for things,dep
+EDDEP22,"In the past 7 days, ",I felt like a failure,dep
+EDDEP23,"In the past 7 days, ",I had trouble feeling close to people,dep
+EDDEP26,"In the past 7 days, ",I felt disappointed in myself,dep
+EDDEP27,"In the past 7 days, ",I felt that I was not needed,dep
+EDDEP28,"In the past 7 days, ",I felt lonely,dep
+EDDEP29,"In the past 7 days, ",I felt depressed,dep
+EDDEP30,"In the past 7 days, ",I had trouble making decisions,dep
+EDDEP31,"In the past 7 days, ",I felt discouraged about the future,dep
+EDDEP35,"In the past 7 days, ",I found that things in my life were overwhelming,dep
+EDDEP36,"In the past 7 days, ",I felt unhappy,dep
+EDDEP39,"In the past 7 days, ",I felt I had no reason for living,dep
+EDDEP41,"In the past 7 days, ",I felt hopeless,dep
+EDDEP42,"In the past 7 days, ",I felt ignored by people,dep
+EDDEP44,"In the past 7 days, ",I felt upset for no reason,dep
+EDDEP45,"In the past 7 days, ",I felt that nothing was interesting,dep
+EDDEP46,"In the past 7 days, ",I felt pessimistic,dep
+EDDEP48,"In the past 7 days, ",I felt that my life was empty,dep
+EDDEP50,"In the past 7 days, ",I felt guilty,dep
+EDDEP54,"In the past 7 days, ",I felt emotionally exhausted,dep
+EDANG01,"In the past 7 days, ","when I was frustrated, I let it show",ang
+EDANG03,"In the past 7 days, ",I was irritated more than people knew,ang
+EDANG04,"In the past 7 days, ",I felt envious of others,ang
+EDANG05,"In the past 7 days, ",I disagreed with people,ang
+EDANG09,"In the past 7 days, ",I felt angry,ang
+EDANG10,"In the past 7 days, ","When I was mad at someone, I gave them the silent treatment",ang
+EDANG11,"In the past 7 days, ",I felt like breaking things,ang
+EDANG15,"In the past 7 days, ",I felt like I was ready to explode,ang
+EDANG16,"In the past 7 days, ","when I was angry, I sulked",ang
+EDANG17,"In the past 7 days, ",I felt resentful when I didn't get my way,ang
+EDANG18,"In the past 7 days, ",I felt guilty about my anger,ang
+EDANG21,"In the past 7 days, ",I felt bitter about things,ang
+EDANG22,"In the past 7 days, ",I felt that people were trying to anger me,ang
+EDANG26,"In the past 7 days, ",I held grudges towards others,ang
+EDANG30,"In the past 7 days, ",I was grouchy,ang
+EDANG31,"In the past 7 days, ",I was stubborn with others,ang
+EDANG35,"In the past 7 days, ",I felt annoyed,ang
+EDANG37,"In the past 7 days, ",I had a bad temper,ang
+EDANG42,"In the past 7 days, ",I had trouble controlling my temper,ang
+EDANG48,"In the past 7 days, ",I felt like I needed help for my anger,ang
+EDANG55,"In the past 7 days, ",I felt like yelling at someone,ang
